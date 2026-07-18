@@ -18,3 +18,12 @@ This tool references US government and authoritative datasets for accurate, tran
 
 [https://hammerio.com/](https://hammerio.com/)
 
+
+## Try the Calculators
+
+Free, no-signup construction tools that use the data sources documented here:
+
+- [Fence Calculator](https://hammerio.com/fence-calculator/)
+- [Paint Calculator](https://hammerio.com/paint-calculator/)
+- [Flooring Calculator](https://hammerio.com/flooring-calculator/)
+
